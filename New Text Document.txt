@@ -1,0 +1,9 @@
+Ensin luodaan projekti githubiin.
+Seuraavaksi kloonasin projektin githubista.
+-Tehtiin siten että valittiin kansio, kansiossa avattiin git työkalu.
+-Annettiin käsky: git clone (url githubin projektiin).
+
+Työskentely:
+git add . (merkkaa kaikki tiedostot kansiosta lisättäväksi githubiin)
+git commit -m "kuvaus tämän hetkisestä tilanteesta"
+git push origin master
